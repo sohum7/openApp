@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-24T18:56:28.831Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="pJvfq6x2a6VV1gavApcu" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-24T19:00:12.172Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="aMPAhdTBBzjD3Hw_k88M" version="20.2.7" type="github">
   <diagram id="iirWNzHHyuH4ovU1Ht1f" name="Page-1">
     <mxGraphModel dx="735" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -122,13 +122,13 @@
         <mxCell id="b5b50U3EUomXbIhhTuj9-7" value="Load and display all applications (all unchecked)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b5b50U3EUomXbIhhTuj9-9" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="b5b50U3EUomXbIhhTuj9-9" value="Saves the checked applications for the current user mode" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b5b50U3EUomXbIhhTuj9-25" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="b5b50U3EUomXbIhhTuj9-25" value="Runs the checked applications" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b5b50U3EUomXbIhhTuj9-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="b5b50U3EUomXbIhhTuj9-28" value="Runs and saves the checked applications for the current user mode" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
